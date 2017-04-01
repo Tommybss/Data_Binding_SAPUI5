@@ -1,0 +1,23 @@
+{
+    "HelloCollection": [
+        {
+            "Language" : "English",
+            "Greeting" : "Hello World!",
+            "Variations" : [
+                {
+                    "Language" : "English",
+                    "Greeting" : "Tootles!"
+                },
+                {
+                    "Language" : "English",
+                    "Greeting" : "Yo!"
+                }
+            ]
+        },
+        {
+            "Language" : "fran�ais",
+            "Greeting" : "Bonjour le monde!"
+        }
+    ]
+} 
+

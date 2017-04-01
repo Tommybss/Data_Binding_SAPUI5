@@ -1,0 +1,13 @@
+<mvc:View controllerName="ui5.controller.Hello"
+	xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc">
+
+            <TileContainer id="caseTiles" height="50%" tiles="{hello>/HelloCollection/0/Variations}">
+           
+        	<StandardTile id="tileId" press="doIt" icon="sap-icon://world"
+        	
+        	    title="{hello>Greeting}"
+	            info="{hello>Language}"  />
+        	      
+                   
+            </TileContainer> 
+</mvc:View>
